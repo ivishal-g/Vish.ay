@@ -71,7 +71,7 @@ export async function generateStaticParams() {
   }
 }
 
-const siteUrl = 'https://sarg.am';
+const siteUrl = 'https://vish.ay';
 
 export async function generateMetadata(props: PageProps) {
   const params = await props.params;
@@ -81,10 +81,10 @@ export async function generateMetadata(props: PageProps) {
     return notFound();
   }
 
-  const description = post.description || `${post.title} - by Sargam Poudel`;
+  const description = post.description || `${post.title} - by Vishal Gaikwad`;
 
   return {
-    title: `${post.title} | Sargam Poudel`,
+    title: `${post.title} | Vishal Gaikwad`,
     description,
     alternates: {
       canonical: `${siteUrl}/${params.slug}`,

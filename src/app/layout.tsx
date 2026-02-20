@@ -8,13 +8,13 @@ import { ViewTransitions } from 'next-view-transitions';
 
 const inter = Inter({ subsets: ['latin'] });
 
-const siteUrl = 'https://sarg.am';
+const siteUrl = 'https://vish.ay';
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
   title: {
-    default: 'Sargam Poudel',
-    template: '%s | Sargam Poudel',
+    default: 'Vishal Gaikwad',
+    template: '%s | Vishal Gaikwad',
   },
   description: 'I build things - software engineer based in Bangalore, India',
   alternates: {
@@ -24,18 +24,18 @@ export const metadata: Metadata = {
     },
   },
   openGraph: {
-    title: 'Sargam Poudel',
+    title: 'Vishal Gaikwad',
     description: 'I build things - software engineer based in Bangalore, India',
     url: siteUrl,
-    siteName: 'Sargam Poudel',
+    siteName: 'Vishal Gaikwad',
     locale: 'en_US',
     type: 'website',
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Sargam Poudel',
+    title: 'Vishal Gaikwad',
     description: 'I build things - software engineer based in Bangalore, India',
-    creator: '@sargampoudel',
+    creator: '@vishalgaikwad',
   },
   robots: {
     index: true,
@@ -52,7 +52,7 @@ export default function RootLayout({
     <ViewTransitions>
       <html lang="en" className="bg-[var(--background)] text-[var(--foreground)]">
         <head>
-          <link rel="alternate" type="application/rss+xml" title="Sargam Poudel's Blog" href="/feed.xml" />
+          <link rel="alternate" type="application/rss+xml" title="Vishal Gaikwad's Blog" href="/feed.xml" />
         </head>
         <body className={inter.className}>
           <a href="#main-content" className="skip-to-content">

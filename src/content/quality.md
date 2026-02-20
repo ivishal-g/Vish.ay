@@ -19,4 +19,4 @@ As my prior blog, I am in search of an interesting problem space where I can dou
 
 This blog was highly inspired by [this video](https://youtu.be/pCil7YNhNCU) where Karri talks about quality. I can resonate about everything he talks about and will try to implement the points in my real life.
 
-If you liked reading this blog, I am interested to hear your feedbacks at `hi@sarg.am`. 
+If you liked reading this blog, I am interested to hear your feedbacks at `hi@vish.ay`. 

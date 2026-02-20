@@ -13,4 +13,4 @@ This is just an example. There are numerous benefits to being up to date with te
 
 While I haven’t been able to make some cash this route, I still think this could be something I’d want to tap into. And regardless, being a technological nerd myself, I don’t care if I don’t make money. I get to learn stuff anyway.
 
-If you liked reading this I'd appreciate your feedback at hi@sarg.am
+If you liked reading this I'd appreciate your feedback at hi@vish.ay

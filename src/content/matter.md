@@ -19,4 +19,4 @@ Over the years, I have taken a few decisions that were the road not taken and al
 
 My goal is to become someone who just knows about computers and eventually focus on where I can improve in the world. There are many problems that have my eyes but at the moment I can't do anything about those. I definitely plan onto getting those off my list as life progresses.
 
-Thank you for reading my thoughts. If you want to give any feedback to this blog email me at `hi@sarg.am`
+Thank you for reading my thoughts. If you want to give any feedback to this blog email me at `hi@vish.ay`

@@ -1,3 +1,3 @@
-# sargam.xyz
+# vishal.xyz
 
 WIP

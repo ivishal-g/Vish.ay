@@ -29,4 +29,4 @@ So, I have laid a simple plan for myself:
 
 All this is pretty hard for be if I'd be honest. Doing all this at the same time is quite difficult. But I am ready for the great rewrite of my own life.
 
-Thank you for reading my thoughts. If you liked anything or want to ask questions feel free to email me at `hi@sarg.am` would love to hear your thoughts.
+Thank you for reading my thoughts. If you liked anything or want to ask questions feel free to email me at `hi@vish.ay` would love to hear your thoughts.

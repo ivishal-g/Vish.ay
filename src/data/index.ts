@@ -10,22 +10,17 @@ interface ILink {
 
 export const links: Array<ILink> = [
   {
-    name: 'Built amazing portfolio website using Next.js and TypeScript',
-    href: 'https://github.com/ivishal-g/portfolio',
-    icon: 'github',
-  },
-  {
     name: 'Contributed to open source projects with meaningful PRs',
     href: 'https://github.com/ivishal-g',
     icon: 'pull-request',
   },
   {
-    name: 'Developed full-stack applications with modern tech stack',
-    href: 'https://github.com/ivishal-g',
+    name: 'Hacktoberfest 2025 Supercontributor',
+    href: 'https://hacktoberfest.com',
     icon: 'github',
   },
   {
-    name: 'Active contributor to developer community',
+    name: 'Active contributor',
     href: 'https://x.com/Vishal___Kwad',
     icon: 'video',
   },
@@ -40,20 +35,14 @@ interface WorkExperience {
 
 export const experiences: WorkExperience[] = [
   {
-    startDate: '2023',
+    startDate: '2025',
     endDate: 'Present',
     company: 'Freelance Developer',
     position: 'Full Stack Developer',
   },
   {
-    startDate: '2022',
-    endDate: '2023',
-    company: 'Tech Company',
-    position: 'Junior Developer',
-  },
-  {
-    startDate: '2021',
-    endDate: '2022',
+    startDate: '2025',
+    endDate: 'Present',
     company: 'Startup Inc.',
     position: 'Developer Intern',
   },

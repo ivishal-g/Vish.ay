@@ -17,4 +17,4 @@ The above strategy sounds great right? Indeed it's great but I found a hack natu
 
 The reason why I am wring this is just because I wanted to be accountable. I want to do something great in my life and that 6.1" brick of glass can't stop me. This is a sort of an experiment. I will write the follow up as how this approach went by after a few months in my blog itself. So, yeah starting today, I will try to have less than 1h of screen time in social apps and will not doom scroll. This is a challenge for me and I will make it.
 
-If you found this blog meaningful please share your feedback at **hi@sarg.am**. I would love to read and reply all your emails. Have a nice day or night!
+If you found this blog meaningful please share your feedback at **hi@vish.ay**. I would love to read and reply all your emails. Have a nice day or night!

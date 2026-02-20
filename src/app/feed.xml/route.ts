@@ -2,12 +2,12 @@ import { getAllBlogPosts } from '@/utils/get-blog-posts';
 
 export async function GET() {
   const posts = getAllBlogPosts();
-  const siteUrl = 'https://sarg.am';
+  const siteUrl = 'https://vish.ay';
 
   const rss = `<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sargam Poudel</title>
+    <title>Vishal Gaikwad</title>
     <description>I build things - writing about tech and life</description>
     <link>${siteUrl}</link>
     <atom:link href="${siteUrl}/feed.xml" rel="self" type="application/rss+xml"/>

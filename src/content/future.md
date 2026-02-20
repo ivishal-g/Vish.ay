@@ -15,4 +15,4 @@ I have had enough experience with all the feeling of working in a startup and wo
 
 I know it's hard, really hard. 99% I will fail but there's a slight 1% which is a reason for me to keep going. I have seen people achieve something that was considered impossible and those who think impossible itself says "I am possible" are the ones to do it.
 
-This is a rant. I know people will make fun of it, still I will put it online and one day I will reflect back upon it since it's the day Sargam chose to live the life he wanted and started to put in real efforts.
+This is a rant. I know people will make fun of it, still I will put it online and one day I will reflect back upon it since it's the day Vishal chose to live the life he wanted and started to put in real efforts.

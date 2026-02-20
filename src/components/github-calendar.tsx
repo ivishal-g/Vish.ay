@@ -26,7 +26,7 @@ function GithubCalendar() {
 
   return (
     <GitHubCalendar
-      username="devsargam"
+      username="ivishal-g"
       transformData={processContributions}
       totalCount={totalCount}
     />

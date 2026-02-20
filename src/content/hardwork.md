@@ -4,7 +4,7 @@ date: '2025-11-30'
 ---
 
 
-Everyone wants a life that's hassle free where only a minimal workload is in their plate and they can just let the day pass by. Well most of us tend to aim towards a life like that but maybe this blog might give some clarity upon why that might not be the best. These are mine personal views so feel free to send your feedbacks at hi@sarg.am
+Everyone wants a life that's hassle free where only a minimal workload is in their plate and they can just let the day pass by. Well most of us tend to aim towards a life like that but maybe this blog might give some clarity upon why that might not be the best. These are mine personal views so feel free to send your feedbacks at hi@vish.ay
 
     
 
